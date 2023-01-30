@@ -1,0 +1,12 @@
+XOR:
+
+    xor_problem-i:1000-l:2-h:100-e:0.700000-m:1.000000.txt
+
+ILDPB:
+
+    ildpb_problem-i:1000-l:2-h:4-e:0.700000-m:1.000000.txt
+
+NOMNIST:
+
+    nominist_problem-i:500-l:2-h:64-e:0.700000-m:1.000000.txt
+

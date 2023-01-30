@@ -1,0 +1,9 @@
+Best learning rate: 0.1
+Best momentum: 0.1
+Best lr scheduler: None
+Best hidden layer: 2
+Best neuron: 4
+Best normalizing value: True
+Best output activation function: softmax
+Best learning: online
+Best error function: cross_entropy

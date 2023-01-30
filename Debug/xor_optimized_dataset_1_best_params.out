@@ -1,0 +1,8 @@
+Best learning rate: 0.2
+Best momentum: 0.8
+Best lr scheduler: None
+Best hidden layer: 2
+Best neuron: 100
+Best normalizing value: False
+Best output activation function: softmax
+Best learning: online
