@@ -1,0 +1,12 @@
+Best learning rate: 1.0
+Best momentum: 1.0
+Best lr scheduler: exponential
+Best hidden layer: 2
+Best neuron: 64
+Best normalizing value: False
+Best output activation function: softmax
+Best learning: batch
+Best error function: cross_entropy
+Best test CCR: 0.852667
+
+Command for execute the experiment: ./la2 -t ../../datasetsLA2IMC/dat/train_nomnist.dat -T ../../datasetsLA2IMC/dat/test_nomnist.dat -l 2 -h 64 -i 10 -e 1.0 -m 1.0 -S exponential   -s -f 1 -V 0.2 -v nomnist_optimized_dataset_1

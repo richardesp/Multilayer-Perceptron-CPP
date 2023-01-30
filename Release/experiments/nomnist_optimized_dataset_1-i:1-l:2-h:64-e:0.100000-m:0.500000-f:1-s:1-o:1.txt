@@ -1,0 +1,20 @@
+FINAL REPORT
+************
+Train error (Mean +- SD): 0.387215 +- 0.00276082
+Test error (Mean +- SD): 0.479054 +- 0.00745195
+Train CCR (Mean +- SD): 0.6 +- 0.015
+Test CCR (Mean +- SD): 0.6 +- 0.015
+CONVERGENCE DATA
+****************
+
+
+Iterations: 
+1,
+
+
+Train errors: 
+0.474766,
+
+
+Test errors: 
+-nan,
